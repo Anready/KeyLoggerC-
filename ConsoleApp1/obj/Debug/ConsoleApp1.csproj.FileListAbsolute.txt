@@ -1,0 +1,10 @@
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\App.exe.config
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\App.exe
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\App.pdb
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\App.exe
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\App.pdb
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Yulia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.ResolveComReference.cache
