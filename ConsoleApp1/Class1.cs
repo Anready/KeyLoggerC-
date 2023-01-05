@@ -1,4 +1,4 @@
-﻿using IWshRuntimeLibrary;
+﻿using IWshRuntimeLibrary; //Класс для добавления в автозагрузку
 
 
 namespace App
